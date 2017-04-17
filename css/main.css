@@ -19,9 +19,9 @@
     margin-bottom: 10px;
     box-shadow: inset 4px 4px 8px #c46868;
     background-image: url("../images/coral-light.jpg");
-    background-size: cover;
+/*    background-size: cover;*/
 /*    background-position: center;*/
-    background-repeat: no-repeat;
+/*    background-repeat: no-repeat;*/
 }
 
 #menu-nav {
