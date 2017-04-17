@@ -15,10 +15,10 @@
     position: fixed;
     top: 20%;
     height: 70%;
-    background-color: ;
+    background-color: #f8c5c5;
     margin-bottom: 10px;
     box-shadow: inset 4px 4px 8px #c46868;
-    background-image: url("../images/coral-light.jpg");
+/*    background-image: url("../images/coral-light.jpg");*/
 /*    background-size: cover;*/
 /*    background-position: center;*/
 /*    background-repeat: no-repeat;*/
